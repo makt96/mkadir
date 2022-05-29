@@ -1,0 +1,63 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Science Researcher and CSE Graduate
+# your company information
+company:
+  name: Metropolitan University,Bangladesh
+  url: "https://www.metrouni.edu.bd"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passinate Data Science Researcher,I love to work with data, I have a good concept of building Machine Learning Model, I aim to work on Ml and AI solution for Business Intelligence based on Big Data, Currently, I am contributing some projects of WorldQuant University under Applied Data Science Lab.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/makt96"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/makt/"
+- name: StackOverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/13824261/md-abdul-kadir?tab=profile"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/makt_96"
+- name: YouTube 
+  icon: "fab fa-youtube"
+  url:
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Hard Working
+  percentage: 85
+  color: green
+- name: Communication
+  percentage: 80
+  color: orange
+- name: Adaptibility
+  percentage: 70
+  color: sky
+- name: Problem Solving
+  percentage: 80
+  color: pink   

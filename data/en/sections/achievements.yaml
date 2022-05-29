@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: The Bits and Bytes of Computer Networking
+  image: /images/sections/achievements/GoogleNetworking.png
+  summary: Computer Network Course Offerd by Google, This Course Covered Basic to Advance Topics during 6 weeks.
+# - title: Champion
+#   image: /images/sections/achievements/ds2.png
+#   summary: Champion in cycling inter-city cycling championship 2020.
+# - title: Graduation
+#   image: /images/sections/achievements/ds3.png
+#   summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
+# - title: Award Winner
+#   image: /images/sections/achievements/ds4.png
+#   summary: Wined best paper award at IEE Conference 2020.

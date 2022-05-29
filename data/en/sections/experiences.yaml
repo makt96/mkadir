@@ -1,0 +1,86 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+
+# - company:
+#     name: Example Co.
+#     url: "https://www.example.com"
+#     location: Dhaka Branch
+#     # company overview
+#     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+#   positions:
+#   - designation: Senior Software Engineer
+#     start: Nov 2019
+#     # don't provide end date if you are currently working there. It will be replaced by "Present"
+#     # end: Dec 2020
+#     # give some points about what was your responsibilities at the company.
+#     responsibilities:
+#     - Design and develop XYZ tool for ABC task
+#     - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+#     - Lead backend team.
+
+
+- company:
+    name: WorldQuant University.
+    url: "https://www.wqu.edu/"
+    location: (Remote)New Orleans, LA 70170,USA
+    overview: WorldQuant University is the leader in global education for data sciences.It is U.S.-based and accredited by the Distance Education Accrediting Commission (DEAC).
+  positions:
+  - designation: Contributor of Applied Data Science Lab.
+    start: February 2022
+    end: Present
+    responsibilities:
+    - Learning Data Sciecne Workflow.
+    - Implementing Lab Designed Projects.
+    - Attending Office Hour as per projects' needs of dificulties.
+    - Continuing Data Science Lessons.
+    - Doing Assignment task's based on project completion. 
+
+- company:
+    name: Dutch-Bangla Bank (Pvt) Ltd | Department of Agent Banking.
+    url: "https://www.dutchbanglabank.com/"
+    location: Sylhet
+    overview: Department of Agent Banking is a concern of Dutch Bangla Bank, Financial Comapny.
+  positions:
+  - designation: Operation & Technical Support Officer(P.C Soft Outlet)
+    start: January 2020(Part-time)
+    end: December 2021
+    responsibilities:
+    - Remittance Service Officer.
+    - Overlooking networking issues and contact wit the IT Team at Head Office.
+
+- company:
+    name: Lycus Tech.
+    url: #"https://www.lycustechnology.com"
+    location: Remote
+    overview: Software Company,Services & Maintanance.
+  positions:
+  - designation: Software Engineer
+    start: March 2020
+    end: June 2021
+    responsibilities:
+    - Lead Supervisor of Project Management.
+    - Team Member of MERN-Stack Software Development.    
+
+- company:
+    name: Bangladesh Red Crescent Society (BDRCS) | Red Crescent Youth, Sylhet Unit.
+    url: "https://bdrcs.org/"
+    location: Sylhet Unit
+    overview: Bangladesh Red Crescent Society (BDRCS) – part of the world largest humanitarian non-governmental organization, The International Red Cross and Red Crescent Movement.
+  positions:
+  - designation: Volunteer
+    start: January 2011
+    end: January 2016
+    responsibilities:
+    - Team Leader at Blood Donation Manifesto.
+    - Member of Disaster Food Supply.
+    - Team Member at Winter Welfare Activity.    

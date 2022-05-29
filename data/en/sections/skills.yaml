@@ -1,0 +1,62 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Machine Learning
+  logo: "images/sections/skills/ml.png"
+  summary: "Machine learning is the foundation of countless important applications, including web
+search, email anti-spam, speech recognition, product recommendations, and more. I assume
+that you or your team is working on a machine learning application, and that you want to
+make rapid progress."
+  url: "https://machinelearning.org.in/"
+
+- name: Artificial Intelligence
+  logo: "images/sections/skills/ai.png"
+  summary: "Python DS libraries is my daily food. I love to work with data. Following Packages/Libraries are my daily use: Panda,NumPy,ScikitLearn,Mathplotlib,PlotlyExpress, Seaborn, StatsModel, etc."
+  url: "https://hub.packtpub.com/python-data-stack/"
+
+- name: Deep Learning
+  logo: "images/sections/skills/dl.png"
+  summary: "Python DS libraries is my daily food. I love to work with data. Following Packages/Libraries are my daily use: Panda,NumPy,ScikitLearn,Mathplotlib,PlotlyExpress, Seaborn, StatsModel, etc."
+  url: "https://hub.packtpub.com/python-data-stack/"
+
+- name: Python Data Science Stack
+  logo: "images/sections/skills/python.png"
+  summary: "Python DS libraries is my daily food. I love to work with data. Following Packages/Libraries are my daily use: Panda,NumPy,ScikitLearn,Mathplotlib,PlotlyExpress, Seaborn, StatsModel, etc."
+  url: "https://hub.packtpub.com/python-data-stack/"
+
+
+- name: Data Visualization
+  logo: "images/sections/skills/tableau.png"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  url: "https://www.tableau.com/"
+
+- name: Statistics
+  logo: "images/sections/skills/statistics.png"
+  summary: "Standard Deviation,Correlation,Probality,Bays Theorem,Exploraotory Data Analysis,etc."
+  url: "https://en.wikipedia.org/wiki/Statistics#:~:text=Statistics%20is%20the%20discipline%20that,statistical%20model%20to%20be%20studied."
+
+
+- name: Mathematics
+  logo: "images/sections/skills/mathematics.png"
+  summary: "Matrices, Complex Variable, Vector Analysis and Geometry, Differential Equation, Calculas, Numerical Method, Discreate Math"
+  url: "https://en.wikipedia.org/wiki/Statistics#:~:text=Statistics%20is%20the%20discipline%20that,statistical%20model%20to%20be%20studied."    
+
+- name: AWS Cloud
+  logo: "images/sections/skills/aws.png"
+  summary: "EC2, S-3 Bucket, Netwoking, Security,Amazon RDS..."
+  url: "https://aws.amazon.com/"      
+
+- name: Linux Operating System 
+  logo: "images/sections/skills/linux.png"
+  summary: "I have used different flavor of Linux Operating Systems from my university and experienced hands-on-skills of some top distros such as Arch Linux,Devian,Ubuntu"
+  url: "https://www.linux.org/"        

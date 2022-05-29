@@ -1,0 +1,78 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Machine Learning
+  filter: "machinelearning"
+- name: Data Science
+  filter: "datascience"  
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Housing in Mexico (Python Data Science Project)
+  logo: /images/sections/projects/ds.png
+  role: Contributor
+  timeline: "March 2022"
+  repo: "files/house-in-mexico.pdf" # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: In this project, I did work with a datasets with 21,000 properties for sale in Mexico through the real estate website Properati.com. My goal is to determine whether sale prices are influenced more by property size or location..
+  tags: ["datascience", "python"]
+
+- name: Full Stack Website for The Apparel House Using MERN
+  logo: /images/sections/projects/react.png
+  role: Developer
+  timeline: "January 2021 - April 2021"
+  repo: "files/p400.pdf"
+  #url: ""
+  summary: I have built a full-stack web application for a female fashion and lifestyle online shop
+           named The Apparel House. The Apparel House currently operates their business in the Facebook
+           marketplace, recently they have taken a venture to perform their business completely
+           e-Commerce website based besides social media marketing.
+  tags: ["P-400", "React","academic","NodeJS","MongoDB","Google Firebase","HTML","CSS"]
+
+- name: Portfolio
+  logo: /images/sections/projects/hugo-logo.svg
+  role: Owner
+  timeline: "May 2022 - Present"
+  repo: mkadir.github.io
+  summary: A Hugo theme for personal portfolio.
+  tags: ["hobby","hugo","theme","portfolio"]
+
+- name: Predicting Housing Price Based on Area_m2, Latitude, Longitude, and Neighborhood in Buenos Aires (ML Project)
+  logo: /images/sections/projects/ml.png
+  role: Contributor
+  timeline: "April 2022"
+  repo: "files/house-in-bunosaires.pdf"
+  summary: In this project, I have emphasized on predictive data science. My focus is also real estate. I have walked through a procedural process of this project.
+  tags: ["Linear-Regression","real-state","python","machinelearning"]  
+
+- name: Air Quality in Nairobi (Based on PM2.5 index)- A Time Series Analysis Projects - Building ARIMA ML Model
+  logo: /images/sections/projects/tsa.png
+  role: Contributor
+  timeline: "April 2022 - May 2022"
+  repo: "files/nairobi-air-quality.pdf"
+  summary: In this project, I work with data from one of Africa's largest open data platforms openAfrica https://africaopendata.org/ .I'll look at air quality data from Nairobi, Lagos, and Dar es Salaam; and build a time seriesmodel to predict PM 2.5 readings throughout the day.
+  tags: ["ARIMA","AutoRegression","MongoDB","python","machinelearning","datascience","Time-Seriese-Analysis"]  
+
+
+- name: Earthquake Damage in Nepal
+  logo: /images/sections/projects/tsa.png
+  role: Contributor
+  timeline: "May 2022 -Present"
+  #repo: "files/nairobi-air-quality.pdf"
+  summary: In this project, I'll work with data from Open Data Nepal to build a model to predict building damage from the Nepal 2015 Earthquake. I'll also work primarily with data from the Gorkha district, with additional examples from Ramechhap.
+  tags: ["Decision Tree","LogisticRegression","SQL","python","machinelearning","datascience","Time-Seriese-Analysis"]   
